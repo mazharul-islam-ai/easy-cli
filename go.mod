@@ -12,7 +12,7 @@ require (
 	github.com/openai/openai-go/v2 v2.7.1
 	github.com/pelletier/go-toml/v2 v2.2.4
 	github.com/spf13/cobra v1.9.1
-	google.golang.org/genai v1.30.0
+	google.golang.org/genai v1.71.0
 )
 
 require (
