@@ -1,0 +1,24 @@
+# Local toolchain (not part of the product)
+.tools/
+
+# Build output
+/easy
+/easy.exe
+/bin/
+/dist/
+coverage.out
+*.coverprofile
+
+# Go
+vendor/
+
+# Editor / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Secrets — never commit real keys (keep testdata fixtures)
+/.env
+.env.*
+!.env.example

@@ -1,0 +1,4 @@
+Invoice for August 2026.
+Amount due: 1200 USD.
+Payment terms: net 30 from invoice date.
+Vendor: Example Supplies Ltd.
